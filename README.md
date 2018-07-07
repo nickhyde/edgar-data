@@ -1,5 +1,5 @@
 # edgar-data
-
+GTFO
 
 ## EDGAR Documentation
 
