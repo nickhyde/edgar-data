@@ -10,6 +10,10 @@
 * [SEC Beginner's Guide to Financial Statements](https://www.sec.gov/reportspubs/investor-publications/investorpubsbegfinstmtguidehtm.html)
 
 
+### Files
+
+* construct_edgar_url.r - Constructs URLs to download Edgar forms given the CIK and SEC Accession Number.
+
 
 ### TSV File Compression
 
