@@ -21,7 +21,7 @@ The tsv files downloaded using the python-edgar tool contain a substantial amoun
 
 
 ```
-larry@pop-os:~/Github-Public/edgar-data/form-data$ head master-index.csv 
+larry@pop-os:~/Github-Public/edgar-data/index-data$ head master-index.csv 
 "CIK"|"Form"|"Date"|"Accession_No"
 860585|13FCONP|1993-02-11|9999999997-04-035713
 880794|NSAR-B|1993-02-26|9999999997-05-050433
